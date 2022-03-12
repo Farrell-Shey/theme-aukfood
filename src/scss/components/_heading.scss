@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5 {
+  text-transform: uppercase;
+}
+
+.entry-content h1, .entry-content .h1, .block-editor-block-list__layout h1, .block-editor-block-list__layout .h1 {
+  font-size: 2.7rem !important;
+}
+
+.entry-content h2, .entry-content .h2, .block-editor-block-list__layout h2, .block-editor-block-list__layout .h2 {
+  font-size: 2.5em !important;
+  margin-bottom: 2em !important;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.7em !important;
+}
+
+p {
+  font-size: 0.9em !important;
+}

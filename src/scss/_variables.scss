@@ -1,0 +1,20 @@
+// Paths
+$theme-path: '/wp-content/themes/lazuli-starter/';
+$assets-path: $theme-path + '/assets/';
+
+// Colors
+$body-bg: #E7EFFA;
+$body-bg-light: #F6F9FD;
+$body-bg-dark: #CEDFF4;
+
+$body-color: #001F60;
+$primary: #001F60;
+$secondary: #FFFFFF;
+$highlight: #F39200;
+
+
+$custom-colors: (
+        "white": #ffffff,
+        "black": #000000,
+);
+
